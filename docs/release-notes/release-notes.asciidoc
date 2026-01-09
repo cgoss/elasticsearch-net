@@ -1,0 +1,15 @@
+[[release-notes]]
+= Release notes
+
+[partintro]
+--
+Review important information about 1.0.x releases.
+
+* <<release-notes-1.0.0>>
+--
+
+
+
+include::release-notes-1.0.0.asciidoc[]
+
+
